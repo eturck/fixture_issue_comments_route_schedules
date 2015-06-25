@@ -1,0 +1,2 @@
+route_id,external_code,route_name,is_forward,line_id,contributor_id
+12_A,61_A,"Fonbeauzard Mairie, Montberon Mairie ou St-Loup",1,12,
